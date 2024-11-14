@@ -15,7 +15,7 @@ pip install pywinauto
 ```
 
 ## How to Run
-**Make sure the autoclick.bat and the autoclick.py are in the same directory**
+**Make sure the autoclick.bat and the autoclick.py are in the same path**
 
 Click on [autoclick.bat](https://github.com/SY-Ch/Battlefield-Kick-Preventer/blob/main/autoclick.bat) to start the program.
 
