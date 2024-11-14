@@ -20,7 +20,7 @@ exit /B
 echo Use Admin Mode
 
 :: maybe no necessary
-:: call conda activate exe 
+:: call conda activate your_env_name 
 
 pushd "%~dp0"
 
